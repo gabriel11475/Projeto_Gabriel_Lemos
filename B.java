@@ -1,5 +1,5 @@
 public class B {
-    pivate int B1;
+    private int B1;
     private float B2;
 
     public int getB1() {
