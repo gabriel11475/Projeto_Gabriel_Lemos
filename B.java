@@ -1,6 +1,6 @@
 public class B {
-    int B1;
-    float B2;
+    pivate int B1;
+    private float B2;
 
     public int getB1() {
         return B1;
@@ -22,7 +22,7 @@ public class B {
         System.out.println("MB1");
     }
 
-    public void MA2() {
+    public void MB2() {
         System.out.println("MB2");
     }
 }
